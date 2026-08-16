@@ -1,1 +1,6 @@
-# Student Management System 
+# Student Management System
+
+
+
+Developed by Developer A
+
